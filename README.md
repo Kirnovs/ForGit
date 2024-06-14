@@ -380,3 +380,7 @@ alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10"
 ---
 [ Статья "Соглашение о коммитах"](https://www.conventionalcommits.org/ru/v1.0.0-beta.4/#спецификация)
 ---
+---
+## [Превращение текста в схемы и диаграммы](https://mermaid.js.org/intro/syntax-reference.html#syntax-structure)
+
+[Ссылка на онлайн редактор](https://mermaid.live/edit#pako:eNpVjr2OwkAMhF_FcsVJ5AVSIB3JQYMEEnRZCitxsivYHzkbIZTk3W9DmjtX9sw3I49Y-4Yxx_bpX7UmiXArlYM031WhxfTRUn-HLNtNR45gveP3BPvN0UOvfQjGdV8rv18gKMbTgjFEbdxjXq3ikz87nqCsThSiD_e_zu3lJ_ipzEWn-v-OFk6pQ9VS3lJWk0BB8kFwi5bFkmnS--OiKIyaLSvM09qQPBQqNyeOhuivb1djHmXgLYofOo2p8NmnawgNRS4NdUJ2ReZfufpaQg)
