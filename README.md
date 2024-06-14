@@ -378,3 +378,5 @@ alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10"
 [![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg)](http://www.youtube.com/watch?v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE)
 ```
 ---
+[ Статья "Соглашение о коммитах"](https://www.conventionalcommits.org/ru/v1.0.0-beta.4/#спецификация)
+---
